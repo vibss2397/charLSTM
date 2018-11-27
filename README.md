@@ -1,5 +1,5 @@
 # Char-rnn
-A tensorflow implementation of a character level rnn model for generating text data
+A tensorflow implementation of a character level rnn model for generating text data  
 check out the portfolio post : [generating rick n morty subtitles via machine learning](vibss2397.github.io/project/template.html?name=rnn)  
 ### inspiration drawn from-
 [karpathy-char-rnn](https://gist.github.com/karpathy/d4dee566867f8291f086)  
